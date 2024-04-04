@@ -8,7 +8,7 @@ I utilized all syntaxes displayed in the following link:
 [Link](https://commonmark.org/help/)
 ---
 * A picture of diatom
-![Image](https://en.wikipedia.org/wiki/Diatom#/media/File:Diatoms_through_the_microscope.jpg)
+![Image](https://en.wikipedia.org/wiki/File:Diatom_2.png)
 ---
 1. diatom is a type of algae
 2. diatom is one of the most beautiful plants in the world!
