@@ -1,41 +1,57 @@
 # CSE15L Lab 1 Report
-## cd command
 
-absolute path: `/Users/gongyige/Desktop/cse15L`
+> cd command
+
+**absolute path:** `/Users/gongyige/Desktop/cse15L`
 ![Image](cd_noArgument.jpeg)
-**Explanation:** `cd` means "change directory". When given no argument, thd `cd` command take us back from the current directory `/Users/gongyige/Desktop/cse15L` to the home directory `~`, which is `/Users/gongyige`
-**Error or not:**
 
+**Explanation:** `cd` means "change directory". When given no argument, thd `cd` command take us back from the current directory `/Users/gongyige/Desktop/cse15L` to the home directory `~`, which is `/Users/gongyige`
+
+**Error or not:** This is not an error, as 
+
+---
 absolute path: `/Users/gongyige`
 ![Image](cd_directory.jpeg)
+
+---
 
 absolute path: `/Users/gongyige/Desktop`
 ![Image](cd_file.jpeg)
 
 ---
 
-## ls command
+> ls command
 
 absolute path: `/Users/gongyige`
 ![Image](ls_no_argument.jpeg)
 
+---
+
 absolute path: `/Users/gongyige`
 ![Image](ls_directory.jpeg)
+
+---
 
 absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
 
 ---
 
-## cat command
+> cat command
 
 
 absolute path: `/Users/gongyige`                                      
 ![Image](cat_no_argument.jpeg)
 
+---
+
 absolute path: `/Users/gongyige`
 ![Image](cat_directory.jpeg)
 
+---
+
 absolute path:`/Users/gongyige/Desktop`
 ![Image](cat_file.jpeg)
+
+---
 
