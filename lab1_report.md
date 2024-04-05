@@ -24,6 +24,7 @@ absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
 
 ---
+
 ## cat command
 
 absolute path: `/Users/gongyige`
@@ -34,3 +35,4 @@ absolute path: `/Users/gongyige`
 
 absolute path:`/Users/gongyige/Desktop`
 ![Image](cat_file.jpeg)
+
