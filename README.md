@@ -66,7 +66,7 @@ absolute path: `/Users/gongyige`
 absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
 
-**Explanation:** `ls` means "to list all files or directory". When given a file,  `ls` just lists the file again; in this case, we give `demo.docx`, it outputs `demo.docx`.
+**Explanation:** `ls` means "to list all files or directory". When given a file,  `ls` just lists the path to the file again; in this case, we give `demo.docx`, it outputs `demo.docx`.
 
 **Error or not:** This is not an error, as `ls` lists the file itself as designed when given a file name.
 
