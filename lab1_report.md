@@ -1,9 +1,9 @@
 # CSE15L Lab 1 Report
 ## cd command
 
-absolute path: `/Users/gongyige`
-![Image](cd_no_argument.jpeg)
-**Explanation:** 
+absolute path: `/Users/gongyige/Desktop/cse15L`
+![Image](cd_noArgument.jpeg)
+**Explanation:** `cd` means "change directory". When given no argument, thd `cd` command take us back from the current directory `/Users/gongyige/Desktop/cse15L` to the home directory `~`, which is `/Users/gongyige`
 **Error or not:**
 
 absolute path: `/Users/gongyige`
