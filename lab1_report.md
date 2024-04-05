@@ -25,6 +25,7 @@
 ---
 
 > 3. file
+
 absolute path: `/Users/gongyige/Desktop`
 ![Image](cd_file.jpeg)
 
@@ -34,35 +35,47 @@ absolute path: `/Users/gongyige/Desktop`
 
 ---
 
-> ls command
+## ls command
+
+> 1. no argument
 
 absolute path: `/Users/gongyige`
 ![Image](ls_no_argument.jpeg)
 
 ---
 
+> 2. directory
+
+
 absolute path: `/Users/gongyige`
 ![Image](ls_directory.jpeg)
 
 ---
+
+> 3. file
 
 absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
 
 ---
 
-> cat command
+## cat command
 
+> 1. no argument
 
 absolute path: `/Users/gongyige`                                      
 ![Image](cat_no_argument.jpeg)
 
 ---
 
+> 2. directory
+
 absolute path: `/Users/gongyige`
 ![Image](cat_directory.jpeg)
 
 ---
+
+> 3. file
 
 absolute path:`/Users/gongyige/Desktop`
 ![Image](cat_file.jpeg)
