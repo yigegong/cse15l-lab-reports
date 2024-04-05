@@ -42,7 +42,7 @@ absolute path: `/Users/gongyige/Desktop`
 absolute path: `/Users/gongyige`
 ![Image](ls_no_argument.jpeg)
 
-**Explanation:** `ls` means "to list all files or directory within the current working directory". When given no argument, thd `ls` lists all files or directories within the current working directory, which is the home directory here.
+**Explanation:** `ls` means "to list all files or directory". When given no argument, thd `ls` lists all files or directories within the current working directory, which is the home directory here.
 
 **Error or not:** This is not an error, as `ls` lists all files or directories within the current working directory as designed.
 
@@ -54,7 +54,7 @@ absolute path: `/Users/gongyige`
 absolute path: `/Users/gongyige`
 ![Image](ls_directory.jpeg)
 
-**Explanation:** `ls` means "to list all files or directory within the current working directory". When given a directory, thd `ls` lists all files or directories within the _given_ directory, which is all files or directories within `Desktop`.
+**Explanation:** `ls` means "to list all files or directory". When given a directory, thd `ls` lists all files or directories within the _given_ directory, which is all files or directories within `Desktop`.
 
 **Error or not:** This is not an error, as `ls` lists all files or directories within the given directory as designed.
 
@@ -66,7 +66,7 @@ absolute path: `/Users/gongyige`
 absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
 
-**Explanation:** `ls` means "to list all files or directory within the current working directory". When given a file,  `ls` just lists the file again; in this case, we give `demo.docx`, it outputs `demo.docx`.
+**Explanation:** `ls` means "to list all files or directory". When given a file,  `ls` just lists the file again; in this case, we give `demo.docx`, it outputs `demo.docx`.
 
 **Error or not:** This is not an error, as `ls` lists the file itself as designed when given a file name.
 
