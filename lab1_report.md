@@ -103,7 +103,7 @@ absolute path: `/Users/gongyige`
 absolute path:`/Users/gongyige/Desktop`
 ![Image](cat_file.jpeg)
 
-**Explanation:** `cat` outputs the content of a file. When given a file, the `cat` command prints out what's within the file; in this case, what was written in the file and printed out in the terminal is "This is a demo file for lab 1, cse 15L.".
+**Explanation:** `cat` outputs the content of a file. When given a file, the `cat` command prints out what's within the file; in this case, what was written in the file and printed out in the terminal is "This is a demo file for lab 1, use 15L.".
 
 **Error or not:** This is not an error. The `cat` command outputs the content of the given file as designed.
 
