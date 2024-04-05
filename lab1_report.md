@@ -3,6 +3,8 @@
 
 absolute path: `/Users/gongyige`
 ![Image](cd_no_argument.jpeg)
+**Explanation:** 
+**Error or not:**
 
 absolute path: `/Users/gongyige`
 ![Image](cd_directory.jpeg)
