@@ -56,7 +56,7 @@ absolute path: `/Users/gongyige`
 
 **Explanation:** `ls` means "to list all files or directory within the current working directory". When given a directory, thd `ls` lists all files or directories within the _given_ directory, which is all files or directories within `Desktop`.
 
-**Error or not:** This is not an error, as `ls` lists all files or directories within the parent directory as designed.
+**Error or not:** This is not an error, as `ls` lists all files or directories within the given directory as designed.
 
 
 ---
