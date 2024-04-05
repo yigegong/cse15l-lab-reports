@@ -1,7 +1,7 @@
 # CSE15L Lab 1 Report
 ## cd command
 
-absolute path: /Users/gongyige
+absolute path: `/Users/gongyige`
 ![Image](cd_no_argument.jpeg)
 
 absolute path: /Users/gongyige
