@@ -66,6 +66,11 @@ absolute path: `/Users/gongyige`
 absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
 
+**Explanation:** `ls` means "to list all files or directory within the current working directory". When given a file,  `ls` just lists the file again; in this case, we give `demo.docx`, it outputs `demo.docx`.
+
+**Error or not:** This is not an error, as `ls` lists the file itself as designed when given a file name.
+
+
 ---
 
 ## cat command
@@ -74,6 +79,10 @@ absolute path:`/Users/gongyige/Desktop`
 
 absolute path: `/Users/gongyige`                                      
 ![Image](cat_no_argument.jpeg)
+
+**Explanation:** `cat` outputs the content of a file. When given no argument, thd `cat` is stuck.
+
+**Error or not:** This is not an error, as `ls` lists all the lists all files or directories within the current working directory as designed.
 
 ---
 
