@@ -121,7 +121,7 @@ When you run the cat command in a terminal without providing any arguments or fi
 
 Here's an example:
 
-Copy code
+# code
 $ cat
 Hello, world!
 Hello, world!
