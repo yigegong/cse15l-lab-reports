@@ -14,9 +14,9 @@
 **absolute path:** `/Users/gongyige`
 ![Image](cd_directory.jpeg)
 
-**Explanation:** `cd` means "change directory". When given the directory `Desktop`, thd `cd` command take us to Desktop from the current directory `/Users/gongyige` to the home directory  `/Users/gongyige/Desktop`
+**Explanation:** `cd` means "change directory". When given the directory `Desktop`, thd `cd` command take us to Desktop from the current directory `/Users/gongyige` to the directory  `/Users/gongyige/Desktop`
 
-**Error or not:** This is not an error, as `cd` takes us take us to `Desktop`, one of the subdirectory of the home directory as designed.
+**Error or not:** This is not an error, as `cd` takes us to `Desktop`, one of the subdirectory of the home directory as designed.
 
 ---
 
