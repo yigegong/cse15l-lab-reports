@@ -10,11 +10,20 @@ absolute path: /Users/gongyige
 ![Image](cd_file.jpeg)
 ---
 ## ls command
+
+absolute path: /Users/gongyige
 ![Image](ls_no_argument.jpeg)
+
+absolute path: /Users/gongyige
 ![Image](ls_directory.jpeg)
+
 ![Image](ls_file.jpeg)
 ---
 ## cat command
+
+absolute path: /Users/gongyige
 ![Image](cat_no_argument.jpeg)
+
+absolute path: /Users/gongyige
 ![Image](cat_directory.jpeg)
 ![Image](cat_file.jpeg)
