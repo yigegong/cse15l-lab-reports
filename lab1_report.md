@@ -121,12 +121,13 @@ When you run the cat command in a terminal without providing any arguments or fi
 
 Here's an example:
 
-# code
+```
 $ cat
 Hello, world!
 Hello, world!
 This is a test.
 This is a test.
+```
 
 In this case, cat is reading from the standard input. When you type a line and press Enter, cat immediately echoes back the same line. This continues until you signal the end of input by pressing Ctrl+D (on Unix-like systems) or Ctrl+Z followed by Enter (on Windows).
 
