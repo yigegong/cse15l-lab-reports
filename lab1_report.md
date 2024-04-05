@@ -1,6 +1,8 @@
 # CSE15L Lab 1 Report
 
-> cd command
+## cd command
+
+> 1. no argument
 
 **absolute path:** `/Users/gongyige/Desktop/cse15L`
 ![Image](cd_noArgument.jpeg)
@@ -11,6 +13,8 @@
 
 ---
 
+> 2. directory
+
 **absolute path:** `/Users/gongyige`
 ![Image](cd_directory.jpeg)
 
@@ -20,12 +24,13 @@
 
 ---
 
+> 3. file
 absolute path: `/Users/gongyige/Desktop`
 ![Image](cd_file.jpeg)
 
 **Explanation:** `cd` means "change directory". When given the file `demo.docx`, thd `cd` output `not a directory: demo.docx`, indicating that cd is not designed to do anything with a file.
 
-**Error or not:** This _is_ an error, as `cd` is designed to only direct us from one -_directory_ to another _directory_; when a file is given, it outputs the error: `not a directory: filename`.
+**Error or not:** This _is_ an error, as `cd` is designed to only direct us from one _directory_ to another _directory_; when a file is given, it outputs the error: `not a directory: filename`.
 
 ---
 
