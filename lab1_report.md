@@ -27,8 +27,10 @@ absolute path:`/Users/gongyige/Desktop`
 
 ## cat command
 
+
 absolute path: `/Users/gongyige`
 ![Image](cat_no_argument.jpeg)
+
 
 absolute path: `/Users/gongyige`
 ![Image](cat_directory.jpeg)
