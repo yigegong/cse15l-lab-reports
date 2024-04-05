@@ -2,7 +2,7 @@
 
 ## cd command
 
-> 1. no argument
+### 1. no argument
 
 **absolute path:** `/Users/gongyige/Desktop/cse15L`
 ![Image](cd_noArgument.jpeg)
@@ -13,7 +13,7 @@
 
 ---
 
-> 2. directory
+### 2. directory
 
 **absolute path:** `/Users/gongyige`
 ![Image](cd_directory.jpeg)
@@ -24,7 +24,7 @@
 
 ---
 
-> 3. file
+### 3. file
 
 absolute path: `/Users/gongyige/Desktop`
 ![Image](cd_file.jpeg)
@@ -37,7 +37,7 @@ absolute path: `/Users/gongyige/Desktop`
 
 ## ls command
 
-> 1. no argument
+### 1. no argument
 
 absolute path: `/Users/gongyige`
 ![Image](ls_no_argument.jpeg)
@@ -48,7 +48,7 @@ absolute path: `/Users/gongyige`
 
 ---
 
-> 2. directory
+### 2. directory
 
 
 absolute path: `/Users/gongyige`
@@ -61,7 +61,7 @@ absolute path: `/Users/gongyige`
 
 ---
 
-> 3. file
+### 3. file
 
 absolute path:`/Users/gongyige/Desktop`
 ![Image](ls_file.jpeg)
@@ -75,7 +75,7 @@ absolute path:`/Users/gongyige/Desktop`
 
 ## cat command
 
-> 1. no argument
+### 1. no argument
 
 absolute path: `/Users/gongyige`                                      
 ![Image](cat_noArgument.jpeg)
@@ -86,7 +86,7 @@ absolute path: `/Users/gongyige`
 
 ---
 
-> 2. directory
+### 2. directory
 
 absolute path: `/Users/gongyige`
 ![Image](cat_directory.jpeg)
@@ -98,7 +98,7 @@ absolute path: `/Users/gongyige`
 
 ---
 
-> 3. file
+### 3. file
 
 absolute path:`/Users/gongyige/Desktop`
 ![Image](cat_file.jpeg)
@@ -110,7 +110,7 @@ absolute path:`/Users/gongyige/Desktop`
 
 ---
 
-> AI Utilization
+### AI Utilization
 
 **prompt:**
 
