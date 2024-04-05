@@ -111,8 +111,13 @@ absolute path:`/Users/gongyige/Desktop`
 ---
 
 > AI Utilization
-**prompt:** cat with no argument in terminal
-**output:** When you run the cat command in a terminal without providing any arguments or file names, it waits for user input from the standard input (stdin). You can type or paste text into the terminal, and cat will echo back the text you enter.
+**prompt:**
+
+cat with no argument in terminal
+
+**output:** 
+
+When you run the cat command in a terminal without providing any arguments or file names, it waits for user input from the standard input (stdin). You can type or paste text into the terminal, and cat will echo back the text you enter.
 
 Here's an example:
 
